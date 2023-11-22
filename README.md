@@ -102,6 +102,12 @@ UNET learns to predict noise (epsilon_not). Hence, the above formula can be used
 
 
 
+## Results
+
+![results](https://github.com/ra9hur/Explore-Stable-Diffusion/assets/17127066/138c1100-b1b6-4300-8c5c-e1294f08b03d)
+
+
+
 
 ## References
 
@@ -111,12 +117,12 @@ UNET learns to predict noise (epsilon_not). Hence, the above formula can be used
 
 3. [Paper: High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
 
-2. [Stability-AI/stable diffusion](https://github.com/Stability-AI/stablediffusion)
+4. [Stability-AI/stable diffusion](https://github.com/Stability-AI/stablediffusion)
 
-3. [Stable Diffusion Explained Step-by-Step with Visualization](https://medium.com/polo-club-of-data-science/stable-diffusion-explained-for-everyone-77b53f4f1c4)
+5. [Stable Diffusion Explained Step-by-Step with Visualization](https://medium.com/polo-club-of-data-science/stable-diffusion-explained-for-everyone-77b53f4f1c4)
 
-4. [Paper: Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
+6. [Paper: Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
 
-5. [Stable Diffusion Explained](https://medium.com/@onkarmishra/stable-diffusion-explained-1f101284484d)
+7. [Stable Diffusion Explained](https://medium.com/@onkarmishra/stable-diffusion-explained-1f101284484d)
 
-6. [Stable Diffusion - What, Why, How?](https://www.youtube.com/watch?v=ltLNYA3lWAQ)
+8. [Stable Diffusion - What, Why, How?](https://www.youtube.com/watch?v=ltLNYA3lWAQ)
