@@ -1,6 +1,7 @@
 # To Explore Stable Diffusion
 
 Here is an attempt to understand how stable diffusion works through the working code. 
+Thanks to [Umar Jamil](https://www.youtube.com/watch?v=ZBKpAp_6TGI) for creating this amazing video tutorial.
 
 ![overview](https://github.com/ra9hur/Explore-Stable-Diffusion/assets/17127066/56bfa600-5878-437d-8aaa-ab940e778e27)
 
@@ -104,7 +105,7 @@ UNET learns to predict noise (epsilon_not). Hence, the above formula can be used
 
 ## Results
 
-![results](https://github.com/ra9hur/Explore-Stable-Diffusion/assets/17127066/138c1100-b1b6-4300-8c5c-e1294f08b03d)
+![results](https://github.com/ra9hur/Explore-Stable-Diffusion/assets/17127066/86d3581b-802b-40f8-be86-044dd53a6a48)
 
 
 
